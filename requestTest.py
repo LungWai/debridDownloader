@@ -4,7 +4,6 @@ import requests
 with open('token.txt', 'r') as file:
     api_token = file.read().strip()
 
-api_token = 'QIGSOTLJ2ZUPYL3QNMS3EWOHMEUVTG2XOEI22TQAQMHKLUUJIC4Q'
 base_url = 'https://api.real-debrid.com/rest/1.0/'
 
 # Function to unrestrict a link and return the download link
