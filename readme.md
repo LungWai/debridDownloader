@@ -11,7 +11,9 @@ This project demonstrates how to use the `requests` library to interact with the
 ## Usage
 1. Ensure that `token.txt` contains the API token 
 
-2. Run `requestTest.py` to unrestrict and download the links specified in `links.txt`.
+2. Find any desire download file from Sanet.st (Need to be rapidgator hoster)
+
+3. Run `Run.py` to unrestrict and download the links specified in `links.txt`.
 
 ## Code Explanation
 The `requestTest.py` file contains the following key components:
